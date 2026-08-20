@@ -1,0 +1,5 @@
+package com.example.midlab2
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
